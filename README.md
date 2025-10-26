@@ -1,1 +1,0 @@
-# crystal-art-gallery
